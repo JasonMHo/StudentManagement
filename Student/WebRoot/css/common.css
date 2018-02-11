@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+body{text-align: center;}
+table{border-collapse:collapse;display:inline;}
+table td{border: 1px solid black;height: 30px; }
+td{text-align: center;} 
+form{text-align: center;}
+a{text-decoration: none;color:blue}
+a:VISITED{color:blue}
+a:hover{color:orange;}
+
+
+.listTable{width: 100px;}
+#nmtd,#pwdtd{width: 200px;}
+#name,#pwd{}
+#profile{width: 300px;}
+#operate{width: 150px;}
+#addStu{text-align:right;padding-right: 50px}
+
+
+#stuDetailList td:FIRST-CHILD{width: 150px;text-align:left;padding-left: 1em}
+#stuDetailList td:LAST-CHILD{width: 300px;text-align:left;padding-left: 1em}
+
+#loginHit{display: inline;color:red;}
