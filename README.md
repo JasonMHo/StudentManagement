@@ -4,3 +4,14 @@
 JavaWeb的综合性比较强，需要的知识面比较多，这里仅仅涉及：HTML，CSS，JavaScript，Java小脚本，MySQL数据库，JSP指令，JSP对象，JavaBean，JDBC，EL和JSTL，Servlet，Filter过滤器等最基本的知识。最重要的是理解了分层操作的思想，JavaBean+JSP+Servlet，就是Model+View+Controller，即MVC的设计模式。
 
 这个案例的部分写法很啰嗦，旨在练习不同的写法。
+
+演示：
+
+1.登录
+![login](https://github.com/JasonMHo/StudentManagement/blob/master/login.gif)
+
+2.过滤登录以及自定义404页面
+![visitError](https://github.com/JasonMHo/StudentManagement/blob/master/visitError.gif)
+
+3.对学生信息的增删改查
+![SQL](https://github.com/JasonMHo/StudentManagement/blob/master/SQL.gif)
